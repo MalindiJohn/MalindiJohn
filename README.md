@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express&logoColor=777BB4)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=777BB4)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue&logoColor=FFCA28)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -97,10 +99,8 @@ Here are some ideas to get you started:
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache&logoColor=FE6732)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue&logoColor=FFCA28)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify&logoColor=1976D2)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=3498DB)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 
 <!--- Tech Stack (end) -->
 
