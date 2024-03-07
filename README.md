@@ -30,7 +30,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **PWA, Rust, Bun, MongoDB and GraphQL**
+- 🔭 I’m currently working on **Rust, Bun, MongoDB and GraphQL**
 
 - 🌱 I’m currently learning **Microservices for Scalable Applications.**
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ### Here's my github stats:
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=MalindiJohn&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kodiworm&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MalindiJohn&theme=radical)](https://git.io/streak-stats) 
 <!--- stats (end) -->
 
 
