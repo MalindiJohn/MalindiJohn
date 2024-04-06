@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <!--- github stats (start) -->
 ### Here's my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=seanbaraka&show_icons=true&theme=radical) 
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=malindijohn&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanbaraka&theme=radical)](https://git.io/streak-stats) 
 <!--- stats (end) -->
 
