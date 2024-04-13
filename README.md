@@ -30,7 +30,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Rust, Bun, MongoDB and GraphQL**
+- 🔭 I’m currently working on **Rust, Bun, MongoDB, SWC on Nest and GraphQL**
 
 - 🌱 I’m currently learning **Microservices for Scalable Applications.**
 
