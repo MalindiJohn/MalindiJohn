@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Microservices for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AZ-900** then later **AZ-204**
+- ☁️ 've keen interest in DevOps engineering. So, I'm learning various tools and practices such as continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), automation, and containerization**
 
 - 💬 Ask me about **NestJS/ExpressJS, Flutter, Vue, Laravel, Rest API, Payment Integration**
 
