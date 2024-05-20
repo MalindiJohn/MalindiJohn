@@ -2,11 +2,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div align="center" id="user-content-toc">
-  <h1>
-    Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" alt="Hi">, I'm Malindi John
-  </h1>
-  <h4>Take a quick look at my <a href="https://drive.google.com/file/d/1WH4bbcUrIPtL2BP0MDV0H5InuMtxD6oV/view?usp=drive_link" target="_blank">resume</a> for more info.</h4>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">
+        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Malindi John
+      </h1><br />
+<!--       <h4>Take a quick look at my <a href="https://github.com/kodiworm/kelvin-portfolio/blob/main/assets/Kelvin%20Resume.pdf" target="_blank">resume</a> for more info.</h4> -->
+      <h4>Take a quick look at my <a href="https://drive.google.com/file/d/1WH4bbcUrIPtL2BP0MDV0H5InuMtxD6oV/view?usp=drive_link" target="_blank">resume</a> for more info.</h4>
+    </summary>
+  </ul>
 </div>
 
 
