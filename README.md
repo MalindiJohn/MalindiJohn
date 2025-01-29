@@ -18,7 +18,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ### Here's my github stats:
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=malindijohn&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malindijohn&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MalindiJohn&theme=radical)](https://git.io/streak-stats)
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malindijohn&hide_progress=true&thme=radical) -->
 <!--- stats (end) -->
 
